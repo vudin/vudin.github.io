@@ -359,6 +359,11 @@ ul#nav li.current a { color: #F06000; }
   	-moz-animation: hundred_percent 2s ease;
   	-webkit-animation: hundred_percent 2s ease;
 }
+.kotlin {
+  width: 80%;
+  -moz-animation: eighty_percent 2s ease;
+  -webkit-animation: eighty_percent 2s ease;
+}
 .java {
   	width: 100%;
   	-moz-animation: hundred_percent 2s ease;
